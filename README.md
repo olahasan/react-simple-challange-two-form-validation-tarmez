@@ -1,6 +1,6 @@
-# react-simple-challange-one-tarmez
+# react-simple-challange-two-form-validation-tarmez
 
-This is a simple project i create it to practice how to send props,Children from component to other built with React Js"Hooks"
+This is a simple project i created it to practice how to send props,how to deal with form and inputs in differents types (text, checkBox, submit) and selects. built with React Js"Hooks"
 
 ## Table of contents
 
@@ -12,7 +12,7 @@ This is a simple project i create it to practice how to send props,Children from
 
 ## overview
 
-This is a simple project i create it to practice how to send props,Children from component to other built with React Js"Hooks"
+This is a simple project i created it to practice how to send props,how to deal with form and inputs in differents types (text, checkBox, submit) and selects. built with React Js"Hooks"
 
 ## Links
 
@@ -23,14 +23,13 @@ If you want to open the link in a new tab, you can:
 
 Otherwise, all links will open in the same tab.
 
-- Solution URL: [here](https://github.com/olahasan/react-simple-challange-one-tarmez)
+- Solution URL: [here](https://github.com/olahasan/react-simple-challange-two-form-validation-tarmez)
 
-- Live Site URL: [here](https://simple-challange-one-tarmez.netlify.app/)
-  OR [here](https://simple-challange-one-tarmez.surge.sh/)
+- Live Site URL: [here](https://react-challange-two-form-validation.netlify.app/)
 
 ## Screenshot
 
-![Screenshot](./public/tarmez1.png)
+![Screenshot](./public/form.png)
 
 ### Author
 
